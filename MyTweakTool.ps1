@@ -1,6 +1,9 @@
 # MyTweakTool.ps1 - GPUWORLD Tweaks Launcher
 Clear-Host
 
+# Imposta il titolo della finestra
+$Host.UI.RawUI.WindowTitle = "GPUWORLD Optimization Tool"
+
 @"
 GGGGGGGGGGGGG       WW               WW     TTTTTTTTTTTTTTTTTTT
 GG::::::::::::G      WW             WW      T:::::::::::::::::T
