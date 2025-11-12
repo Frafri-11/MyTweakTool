@@ -1,12 +1,25 @@
-# MyTweakTool.ps1
-# Base del tool - in futuro aggiungeremo i tuoi script reali
-
+# MyTweakTool.ps1 - GPUWORLD Tweaks Launcher
 Clear-Host
-Write-Host "======================================"
-Write-Host "     MyTweakTool - Base Operativa"
-Write-Host "======================================"
-Write-Host
-Write-Host "✅ Il tool è stato avviato correttamente!"
-Write-Host "A breve qui appariranno i tuoi tweak..."
-Write-Host
+
+@"
+GGGGGGGGGGGGG       WW               WW      TTTTTTTTTTTTTTTTTTTTTT
+GG::::::::::::G      WW             WW       T:::::::::::::::::TTTT
+GG:::::::::::::::G    WW     WW     WW       T:::::::::::::::::TTT
+G:::::GGGGGGGG::::G    WW   WWWW   WW        T:::::TT:::::::TTTTT
+G:::::G       GGGGGG    WW WWWWWW WW         TTTTTT  TTTTTTT
+G:::::G                 WWWW   WWWW                  T:::::T
+G:::::G    GGGGGGG       WW     WW                   T:::::T
+G:::::G    G:::::G       WW     WW                   T:::::T
+G:::::G    G:::::G       WW     WW                   T:::::T
+G:::::G    G:::::G       WW     WW                   T:::::T
+G:::::G       GGGGGG     WW     WW                   T:::::T
+G:::::GGGGGGGG::::G      WW     WW                   T:::::T
+GG:::::::::::::::G       WW     WW                   T:::::T
+GGG::::::GGG:::G         WW     WW                   T:::::T
+   GGGGGG   GGGG         WW     WW                   TTTTTTT
+"@
+
+Write-Host "====GPUWORLD Tweaks===="
+Write-Host "====Windows Toolbox===="
+Write-Host ""
 pause
