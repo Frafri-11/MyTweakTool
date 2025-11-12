@@ -5,11 +5,11 @@ Clear-Host
 $Host.UI.RawUI.WindowTitle = "GPUWORLD Optimization Tool"
 
 # Avvio silenzioso
-Start-Sleep -Seconds 1.9
+Start-Sleep -Seconds 1.8
 Clear-Host
 
 @"
-GGGGGGGGGGGGGGGG           WW                 WW         TTTTTTTTTTTTTTTTTTT
+GGGGGGGGGGGGGGGGG          WW                 WW         TTTTTTTTTTTTTTTTTTT
 GG:::::::::::::::G          WW               WW          T:::::::::::::::::T
 GG:::::::::::::::G           WW     WW     WW           T:::::::::::::::::T
 G:::::GGGGGGGG::::G           WW   WWWW   WW            T:::::TT:::::::TTT
