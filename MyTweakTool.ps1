@@ -18,6 +18,8 @@ GG:::::::::::::::G       WW     WW                   T:::::T
 GGG::::::GGG:::G         WW     WW                   T:::::T
    GGGGGG   GGGG         WW     WW                   TTTTTTT
 "@
+
+
 # spazio visivo extra tra la sigla e il testo
 Write-Host ""
 Write-Host ""
