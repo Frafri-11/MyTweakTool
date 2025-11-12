@@ -5,25 +5,25 @@ Clear-Host
 $Host.UI.RawUI.WindowTitle = "GPUWORLD Optimization Tool"
 
 # Avvio silenzioso
-Start-Sleep -Seconds 1.2
+Start-Sleep -Seconds 1.9
 Clear-Host
 
 @"
-GGGGGGGGGGGGGGG           WW                 WW       TTTTTTTTTTTTTTTTTTT
-GG:::::::::::::::G         WW               WW        T:::::::::::::::::T
-GG:::::::::::::::G          WW     WW     WW         T:::::::::::::::::T
-G:::::GGGGGGGG::::G          WW   WWWW   WW          T:::::TT:::::::TTT
-G:::::G         GGGGGG        WW WWWWWW WW           TTTTTT  TTTTTTT
-G:::::G                      WWWW     WWWW                   T:::::T
-G:::::G     GGGGGGG          WW         WW                   T:::::T
-G:::::G     G:::::G          WW         WW                   T:::::T
-G:::::G     G:::::G          WW         WW                   T:::::T
-G:::::G     G:::::G          WW         WW                   T:::::T
-G:::::G         GGGGGG       WW         WW                   T:::::T
-G:::::GGGGGGGG::::G          WW         WW                   T:::::T
-GG:::::::::::::::G           WW         WW                   T:::::T
-GG:::::::::::::::G           WW         WW                   T:::::T
- GGGGGGGGGGGGGGG             WW         WW                   TTTTTTT
+GGGGGGGGGGGGGGGG           WW                 WW         TTTTTTTTTTTTTTTTTTT
+GG:::::::::::::::G          WW               WW          T:::::::::::::::::T
+GG:::::::::::::::G           WW     WW     WW           T:::::::::::::::::T
+G:::::GGGGGGGG::::G           WW   WWWW   WW            T:::::TT:::::::TTT
+G:::::G         GGGGGG         WW WWWWWW WW             TTTTTT  TTTTTTT
+G:::::G                        WWWW     WWWW                     T:::::T
+G:::::G     GGGGGGG            WW         WW                     T:::::T
+G:::::G     G:::::G            WW         WW                     T:::::T
+G:::::G     G:::::G            WW         WW                     T:::::T
+G:::::G     G:::::G            WW         WW                     T:::::T
+G:::::G         GGGGGG         WW         WW                     T:::::T
+G:::::GGGGGGGG::::G            WW         WW                     T:::::T
+GG:::::::::::::::G             WW         WW                     T:::::T
+GG:::::::::::::::G             WW         WW                     T:::::T
+ GGGGGGGGGGGGGGG               WW         WW                     TTTTTTT
 "@
 
 Write-Host ""
